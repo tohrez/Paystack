@@ -197,6 +197,7 @@ line-height: 22.4px; /* 160% */
 .ass15{
     display: flex;
     gap: 20px;
+    justify-content: space-between;
 }
 .ass16{
     display: flex;
@@ -646,6 +647,9 @@ text-transform: lowercase;
     }
     .Section-img{
         padding: 10px;
+    }
+    .Sec7{
+        flex-direction: none;
     }
     
     .sec31{
