@@ -612,6 +612,8 @@ text-transform: lowercase;
     }
     .ass15{
         flex-wrap: wrap;
+        justify-content: left;
+        gap: 35px;
     }
     .item01{
         width: 100%;
